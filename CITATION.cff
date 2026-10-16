@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Zeng"
+    given-names: "Haibin"
+title: "RTDoseFixer"
+version: 2.0.0
+doi: 10.5281/zenodo.23413795
+date-released: 2026-10-16
+url: "https://github.com/zenghaibin-cmd/RTDoseFixer"
