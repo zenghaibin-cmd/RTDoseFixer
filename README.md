@@ -19,3 +19,9 @@
 - ❌ **商业使用**：需获得商业授权，详见 [COMMERCIAL-LICENSE.md](./COMMERCIAL-LICENSE.md)。
 
 商业授权联系方式：hbz@mail.sdu.edu.cn
+
+## 引用
+
+如果您在研究中使用了本项目，请引用：
+
+Zenghaibin-cmd. (2026). RTDoseFixer (v2.0.0). Zenodo. https://doi.org/10.5281/zenodo.23413795
